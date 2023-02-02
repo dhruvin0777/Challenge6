@@ -1,0 +1,18 @@
+.center {
+    text-align: center;
+    background-color: rgb(88, 31, 233);
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    font-style: bold;
+}
+.sidenav {
+    font-size: 30px;
+}
+.forecast {
+  text-align: center;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    font-style: bold;
+}
